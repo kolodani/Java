@@ -1,5 +1,5 @@
 /**
- * 3.6.5 Empty and Null Strings
+ * 3.6.6 Code Points and Code Units
  * 
  * @author kolodani
  */
